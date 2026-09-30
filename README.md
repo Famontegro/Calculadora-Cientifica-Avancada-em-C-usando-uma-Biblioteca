@@ -15,7 +15,7 @@ Ela consiste em uma calculadora científica desenvolvida inteiramente em linguag
 Eu montei esse desafio para mim mesmo, ele é, utilizar somente uma biblioteca, eu podia ter utilizado a 'math.h' mas seria tanto quanto sem graça, então eu utilizei somente a 'stdio.h'. 
 Fiz essa calculadora para praticar os conceitos fundamentais da programação, tanto porque essa é a primeira linguagem de programação que eu aprendo, porém eu não sabia que ia ficar tão grande, ao decorrer do programa, eu fui mudando os objetivos dessa calculadora, por isso ela possui 3069 linhas de código com 44 menus e 107 operações diferentes.
 
-####O código apresenta:
+#### O código apresenta:
 
 ### 🔢 Operações básicas
 - Soma
